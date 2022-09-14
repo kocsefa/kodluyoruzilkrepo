@@ -1,6 +1,8 @@
 # **Kodluyoruz İlk Repo**
 Bu repo [kodluyoruz](https://app.patika.dev/courses/git/odev1) Front-End eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![git](image.png)
+
 # **Installation**
 Öncelikle projeyi klonlayın.
 
